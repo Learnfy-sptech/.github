@@ -17,7 +17,7 @@ Este projeto faz parte da iniciativa de Pesquisa e Inovação do segundo semestr
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/HarisonRios/LabTricolor
+    git clone (EM CONSTRUÇÃO!!)
     ```
 
 2. Entre no diretório do site:
