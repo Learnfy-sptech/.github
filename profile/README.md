@@ -17,7 +17,7 @@ Este projeto faz parte da iniciativa de Pesquisa e Inovação do segundo semestr
 
 1. Clone o repositório:
     ```bash
-    git clone (EM CONSTRUÇÃO!!)
+    git clone https://github.com/Learnfy-sptech/Web-application
     ```
 
 2. Entre no diretório do site:
@@ -39,6 +39,7 @@ Este projeto faz parte da iniciativa de Pesquisa e Inovação do segundo semestr
 - Harison Rios [https://github.com/HarisonRios]
 - Lucas Aiello [https://github.com/lucasaiello-dev]
 - Luiza Camara [https://github.com/Luiza-C-Moreira]
+- João Pedro [https://github.com/jpferraz-git]
 - Vinicius Alves [https://github.com/ViniciusAlvesdosSantos]
 
 
